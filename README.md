@@ -1,4 +1,4 @@
-# Notebook_PLCOpen
+# Notebook
 
 此仓库包含基于 **Next.js 15** 构建的现代化 AI 知识库应用源码。该项目复刻了 Google NotebookLM 的核心体验，支持 RAG 检索、思维导图生成等高级功能。
 
